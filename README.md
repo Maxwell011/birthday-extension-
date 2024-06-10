@@ -33,7 +33,7 @@
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-This is a portfolio of a designer that contains previous projects and amazing projects that have been built.
+This is an extension
 
 ## 🛠 Built With <a name="built-with"></a>
 
