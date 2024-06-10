@@ -138,12 +138,6 @@ Example:
 - Twitter: [@twitterhandle]()
 - LinkedIn [LinkedIn]()
 
-👤 **Stanley**
-
-- Behance: [@githubhandle]()
-- Twitter: [@twitter]()
-- LinkedIn: [LinkedIn]()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
