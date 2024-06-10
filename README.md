@@ -134,7 +134,7 @@ Example:
 
 👤 **Orji Maxwell**
 
-- GitHub: [@githubhandle]()
+- GitHub: [@githubhandle](https://github.com/Maxwell011)
 - Twitter: [@twitterhandle]()
 - LinkedIn [LinkedIn]()
 
