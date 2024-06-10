@@ -136,7 +136,7 @@ Example:
 
 - GitHub: [@githubhandle](https://github.com/Maxwell011)
 - Twitter: [@twitterhandle]()
-- LinkedIn [LinkedIn]()
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
