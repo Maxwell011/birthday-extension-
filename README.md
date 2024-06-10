@@ -135,7 +135,7 @@ Example:
 👤 **Orji Maxwell**
 
 - GitHub: [@githubhandle](https://github.com/Maxwell011)
-- Twitter: [@twitterhandle]()
+- Twitter: [@twitterhandle](https://x.com/maxwellchuks41)
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
