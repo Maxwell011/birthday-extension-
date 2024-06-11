@@ -41,8 +41,6 @@ This is an extension that helps remember
 
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
-    <li><a href="https:///">React Scrool</a></li>
-    <li><a href="https:///"></a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
     <li><a></a></li>
   </ul>
