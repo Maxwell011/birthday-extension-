@@ -81,7 +81,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/Maxwell011/portfolio-design.git
+  https://github.com/Maxwell011/.git
 ```
 
 ### Install
@@ -183,9 +183,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Can I make changes and update the project?]**
+- **[]**
 
-  - [Yes of course]
+  - []
 
 - **[Question_2]**
 
