@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 Install the project dependency with:
 
 ```sh
-  npm install
+  pnpm install
 ```
 
 ### Usage
@@ -97,7 +97,7 @@ Install the project dependency with:
 To run the project, execute the following command:
 
 ```sh
-  npm run dev
+  pnpm run dev
 ```
 
 ### Deployment
