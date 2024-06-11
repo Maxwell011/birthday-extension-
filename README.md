@@ -142,8 +142,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_f_]**
-- [ ] **[new_f]**
+- [ ] **[]**
+- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
