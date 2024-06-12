@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [Extension] <a name="about-project"></a>
 
 This is an extension that helps remember
 
@@ -171,7 +171,7 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[]**
+- **[Question_1]**
 
   - []
 
