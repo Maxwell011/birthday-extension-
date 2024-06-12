@@ -112,7 +112,7 @@ To run the project, execute the following command:
 - Twitter: [@twitter](https://x.com/maxwellchuks41)
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
 
-  👤 **Orji Maxwell**
+  <!-- 👤 \*\*\/\*\* -->
 
 - GitHub: [@github]()
 - Twitter: [@twitter]()
