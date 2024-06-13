@@ -106,7 +106,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Orji Maxwell**
+<!-- 👤 **Orji Maxwell** -->
 
 - GitHub: [@github](https://github.com/Maxwell011)
 - Twitter: [@twitter](https://x.com/maxwellchuks41)
