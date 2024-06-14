@@ -50,7 +50,6 @@ This is an extension that helps remember
 ### ✨ Key Features <a name="key-features"></a>
 
 - Used modern tools
-- Using new and improved methods
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
