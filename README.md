@@ -33,7 +33,7 @@
 
 # 📖 [Extension] <a name="about-project"></a>
 
-This is an extension that helps remember
+This is an extension
 
 ## 🛠 Built With <a name="built-with"></a>
 
