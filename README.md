@@ -42,7 +42,7 @@ This is an extension
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a>Twin Macro</a></li>
+    <!-- <li><a>Twin Macro</a></li> -->
   </ul>
 
 <!-- Features -->
