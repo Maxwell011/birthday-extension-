@@ -50,6 +50,8 @@ This is an extension
 ### ✨ Key Features <a name="key-features"></a>
 
 - Used modern tools
+- Use
+- Use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
