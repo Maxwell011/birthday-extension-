@@ -80,7 +80,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/Maxwell011/.git
+
 ```
 
 ### Install
