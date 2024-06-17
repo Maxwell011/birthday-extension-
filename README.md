@@ -152,7 +152,7 @@ If you like this project kindly follow and contact us to work together
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
+> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
