@@ -112,11 +112,10 @@ To run the project, execute the following command:
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
 
     <!-- 👤 \*\*\/\*\* -->
-  <!--
 
 - GitHub: [@github]()
 - Twitter: [@twitter]()
-- LinkedIn [LinkedIn]() -->
+- LinkedIn [LinkedIn]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
