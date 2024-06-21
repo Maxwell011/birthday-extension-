@@ -110,9 +110,9 @@ To run the project, execute the following command:
 - Twitter: [@twitter](https://x.com/maxwellchuks41)
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
 
-- GitHub: [@github]()
+<!-- - GitHub: [@github]()
 - Twitter: [@twitter]()
-- LinkedIn [LinkedIn]()
+- LinkedIn [LinkedIn]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
