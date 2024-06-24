@@ -71,7 +71,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - vs Code
-<!-- - Terminal -->
+- Terminal (If you want to run locally)
 - Browser
 
 ### Setup
