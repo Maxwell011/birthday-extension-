@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <main>
-      <h1>This is the home page for the extension</h1>
+      <h1>This is the footer component </h1>
     </main>
   );
 }
