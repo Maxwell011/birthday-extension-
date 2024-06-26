@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Birthday Extension",
-  description: "This is an extension for your birthday.",
+  description: "This is an extension for your birthday reminders.",
 };
 
 export default function RootLayout({
