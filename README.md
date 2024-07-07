@@ -49,6 +49,7 @@ This is an extension that helps
 ### ✨ Key Features <a name="key-features"></a>
 
 <!-- - Used modern tools -->
+- Beautiful styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
