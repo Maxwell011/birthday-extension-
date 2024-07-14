@@ -106,9 +106,10 @@ To run the project, execute the following command:
 
 👤 **Orji Maxwell**
 
+<!--
 - GitHub: [@github](https://github.com/Maxwell011)
 - Twitter: [@twitter](https://x.com/maxwellchuks41)
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/chukwuemekamaxwell/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
