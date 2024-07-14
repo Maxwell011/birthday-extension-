@@ -55,7 +55,7 @@ This is an extension that helps
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+<!--  - [Live Demo Link]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +148,9 @@ If you like this project kindly follow and contact us to work together it would 
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank ...
+
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
