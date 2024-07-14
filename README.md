@@ -41,7 +41,6 @@ This is an extension that helps
   <ul>
     <li><a href="https://nextjs.org/">Next Js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://tailwindcss.com/"></a></li>
   </ul>
 
 <!-- Features -->
